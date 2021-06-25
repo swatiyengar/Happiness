@@ -56,10 +56,10 @@ I mapped the country names across the different datasets. In the instances where
 I extracted cumulative case and death data as of 31 December 2020 from Novel Coronavirus (COVID-19) Cases and Deaths (JHU CSSE) and the 2021 Corruption Perception Index (CPI) Score from Transparency International Corruption Index and added them to the a new combined file containg World Happiness Report 2021 indicators
 
 I mapped CPI scores to WHR Perception of Corruption Scores (100-cpi_score/100) and added them to the combined file
-- <i>NOTE: This is my rough mapping - not an evidence-based method to compare these scores<i>
+- <i>NOTE: This is my rough mapping - not an evidence-based method to compare these scores</i>
 
 I added World Bank 2020 Population estimates and used them, in conjuction with CCSE data, to derive cases and deaths per 100k population, as of 31 Dec 2020 (e.g. number of cases/population *100000), and added them to the combined file
-- <i>NOTE: World Bank data did not include population data on Taiwan or North Cyprus. Taiwanese population data was taken from UN Population division estimates (https://population.un.org/wpp/) and North Cyprus data was taken from https://www.ticaret.gov.tr/<i>
+- <i>NOTE: World Bank data did not include population data on Taiwan or North Cyprus. Taiwanese population data was taken from UN Population division estimates (https://population.un.org/wpp/) and North Cyprus data was taken from https://www.ticaret.gov.tr/</i>
 
 I extracted a list of OECD countries and matched countries to their OECD status in the combined file. 
   
